@@ -1,0 +1,16 @@
+.container {
+    background-color: azure;
+}
+
+header {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    text-align: center;
+}
+
+.done {
+    text-decoration: line-through;
+}
